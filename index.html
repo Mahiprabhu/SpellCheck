@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Domain-Specific Spellchecker</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Domain-Specific Spellchecker</h1>
+        <div class="controls">
+            <div class="control-group">
+                <label for="domain">Domain:</label>
+                <select id="domain">
+                    <option value="physics">Physics</option>
+                    <option value="medical">Medical</option>
+                    <option value="legal">Legal</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label for="model">Model:</label>
+                <select id="model">
+                    <option value="bert">BERT (Contextual)</option>
+                    <option value="lstm">LSTM (Similarity)</option>
+                    <option value="ensemble">ENSEMBLE (All Models)</option>
+                    <option value="cnn">CNN (Character Patterns)</option>
+                </select>
+                <small class="text-muted">ENSEMBLE combines all models for best results</small>
+            </div>
+            
+            <button id="check-btn">Check Spelling</button>
+            <input type="file" id="file-upload" accept=".txt,.docx">
+        </div>
+        
+        <textarea id="input-text" placeholder="Enter text here..."></textarea>
+        
+        <div class="progress-container" id="progress-container" style="display: none;">
+            <progress id="progress-bar" value="0" max="100"></progress>
+            <span id="progress-text">0%</span>
+        </div>
+        
+        <div class="results" id="results">
+            <div id="output"></div>
+        </div>
+    </div>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

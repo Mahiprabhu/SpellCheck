@@ -1,0 +1,34 @@
+{
+    "ontologies": {
+        "physics": "physics_ontology.ttl",
+        "medical": "medical_ontology.ttl",
+        "legal": "legal_ontology.ttl"
+    },
+    "domains": {
+        "physics": {
+            "dictionary": "physics_terms.txt",
+            "common_misspellings": {
+                "quantan": "quantum",
+                "relativty": "relativity",
+                "physiks": "physics",
+                "fotan": "photon",
+                "particl": "particle",
+                "lite": "light"
+            }
+        },
+        "medical": {
+            "dictionary": "medical_terms.txt",
+            "common_misspellings": {
+                "hypertention": "hypertension",
+                "diabetis": "diabetes"
+            }
+        },
+        "legal": {
+            "dictionary": "legal_terms.txt",
+            "common_misspellings": {
+                "defendent": "defendant",
+                "lible": "libel"
+            }
+        }
+    }
+}

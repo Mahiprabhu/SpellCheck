@@ -1,0 +1,3129 @@
+quantum
+entanglement
+superposition
+relativity
+photon
+electron
+proton
+neutron
+boson
+fermion
+hadron
+lepton
+quark
+gluon
+neutrino
+spectroscopy
+thermodynamics
+electrodynamics
+mechanics
+optics
+astrophysics
+cosmology
+quantumfield
+stringtheory
+blackhole
+singularity
+bigbang
+darkmatter
+darkenergy
+wimp
+axion
+supersymmetry
+standardmodel
+higgs
+bose
+einstein
+schrodinger
+heisenberg
+dirac
+feynman
+hawking
+planck
+curie
+tesla
+maxwell
+newton
+absolute
+achromatic
+acoustic
+adiabatic
+alternating
+atomic
+binding
+brownian
+buoyant
+chromatic
+closed
+coherent
+critical
+dense
+direct
+electric
+electrical
+endothermic
+exothermic
+free
+fundamental
+gravitational
+internal
+isobaric
+isochoric
+isothermal
+kinetic
+latent
+magnetic
+mechanical
+natural
+nuclear
+open
+optical
+potential
+primary
+progressive
+quantum
+radiant
+radioactive
+rectilinear
+relative
+resolving
+resonnt
+resultant
+rigid
+volumetric
+acceleration
+alternating current
+ampere
+amplifier
+angstrom
+anion
+antimatter
+atom
+baryon
+becquerel
+Boyle's law
+Brownian motion
+cacion
+calorie
+capacitance
+cathode ray
+centre of gravity
+centrifugal force
+charge
+Charles' law
+conductor
+convection
+cosmic ray
+coulomb
+current
+cyclotron
+decibel
+density
+diffraction
+diffusion
+diode
+direct current
+Doppler effect
+earth
+electricity
+electromotive force
+electron
+farad
+fission
+fluorescence
+force
+physics
+photon
+particle
+light
+Physics
+Science
+Observation
+Experiment
+Theory
+Law
+Hypothesis
+Model
+System
+Property
+Quantity
+Unit
+Standard
+SI Unit
+Meter (m)
+Kilogram (kg)
+Second (s)
+Ampere (A)
+Kelvin (K)
+Mole (mol)
+Candela (cd)
+Scalar
+Vector
+Magnitude
+Direction
+Dimension
+Constant
+Variable
+Precision
+Accuracy
+Error
+Uncertainty
+Force (F)
+Mass (m)
+Time (t)
+Length (L)
+Velocity (v)
+Acceleration (a)
+Energy (E)
+Work (W)
+Power (P)
+Momentum (p)
+Impulse (J)
+Pressure (P)
+Temperature (T)
+Density (ρ)
+Volume (V)
+Area (A)
+Angle (θ)
+Frequency (f)
+Wavelength (λ)
+Period (T)
+Amplitude (A)
+Intensity (I)
+Current (I)
+Voltage (V)
+Resistance (R)
+Capacitance (C)
+Inductance (L)
+Charge (Q)
+Electric Field (E)
+Magnetic Field (B)
+Flux (Φ)
+Power Factor
+Efficiency (η)
+Specific Heat
+Latent Heat
+Entropy (S)
+Enthalpy (H)
+Gibbs Free Energy
+Helmholtz Free Energy
+Degrees of Freedom
+Hamiltonian
+Lagrangian
+Mechanics
+Kinematics
+Dynamics
+Statics
+Displacement
+Distance
+Speed
+Uniform Motion
+Non-uniform Motion
+Free Fall
+Gravity
+Gravitational Force
+Weight
+Normal Force
+Friction
+Static Friction
+Kinetic Friction
+Coefficient of Friction
+Tension
+Spring Force
+Hooke's Law
+Newton's First Law
+Newton's Second Law
+Newton's Third Law
+Inertia
+Frame of Reference
+Inertial Frame
+Non-inertial Frame
+Centripetal Force
+Centrifugal Force
+Circular Motion
+Angular Displacement
+Angular Velocity
+Angular Acceleration
+Torque (τ)
+Moment of Inertia (I)
+Angular Momentum (L)
+Rotational Kinetic Energy
+Work-Energy Theorem
+Conservation of Energy
+Conservation of Momentum
+Conservation of Angular Momentum
+Elastic Collision
+Inelastic Collision
+Impulse-Momentum Theorem
+Simple Harmonic Motion (SHM)
+Pendulum
+Resonance
+Damping
+Undamped Oscillation
+Forced Oscillation
+Period (oscillation)
+Frequency (oscillation)
+Wave
+Transverse Wave
+Longitudinal Wave
+Standing Wave
+Traveling Wave
+Superposition Principle
+Interference
+Diffraction
+Reflection
+Refraction
+Doppler Effect
+Sound Wave
+Loudness
+Pitch
+Quality (timbre)
+Beat Frequency
+Mach Number
+Shock Wave
+Thermodynamics
+Heat (Q)
+Work (W) (thermodynamic)
+Internal Energy (U)
+System (thermo)
+Surroundings
+Boundary
+Open System
+Closed System
+Isolated System
+State Variable
+Process (thermo)
+Isothermal Process
+Adiabatic Process
+Isobaric Process
+Isochoric Process
+Cyclic Process
+Reversible Process
+Irreversible Process
+Zeroth Law of Thermodynamics
+First Law of Thermodynamics
+Second Law of Thermodynamics
+Third Law of Thermodynamics
+Entropy (S)
+Enthalpy (H)
+Gibbs Free Energy (G)
+Helmholtz Free Energy (A)
+Heat Capacity
+Specific Heat Capacity
+Latent Heat of Fusion
+Latent Heat of Vaporization
+Phase Transition
+Melting Point
+Boiling Point
+Triple Point
+Critical Point
+Ideal Gas
+Ideal Gas Law
+Van der Waals Equation
+Kinetic Theory of Gases
+Maxwell-Boltzmann Distribution
+Root Mean Square (RMS) Speed
+Degrees of Freedom (thermo)
+Equipartition Theorem
+Heat Engine
+Carnot Cycle
+Efficiency (thermo)
+Refrigerator
+Heat Pump
+Coefficient of Performance (COP)
+Boltzmann Constant
+Avogadro's Number
+Microstate
+Macrostate
+Partition Function
+Ensemble
+Canonical Ensemble
+Grand Canonical Ensemble
+Microcanonical Ensemble
+Electromagnetism
+Electric Charge
+Proton
+Electron
+Neutron
+Elementary Charge
+Conductor
+Insulator
+Semiconductor
+Electrostatics
+Coulomb's Law
+Electric Field (E)
+Electric Potential (V)
+Voltage (V)
+Electric Potential Energy
+Equipotential Lines
+Electric Dipole
+Capacitance (C)
+Capacitor
+Dielectric
+Dielectric Constant
+Current (I)
+Resistance (R)
+Ohm's Law
+Resistivity (ρ)
+Conductivity (σ)
+Superconductor
+Circuit
+Series Circuit
+Parallel Circuit
+Kirchhoff's Laws
+DC (Direct Current)
+AC (Alternating Current)
+RMS Voltage
+RMS Current
+Inductance (L)
+Inductor
+Magnetic Field (B)
+Magnetic Force
+Lorentz Force
+Magnetic Flux (ΦB)
+Faraday's Law of Induction
+Lenz's Law
+Maxwell's Equations
+Electromagnetic Wave
+Speed of Light (c)
+Electromagnetic Spectrum
+Radio Waves
+Microwaves
+Infrared (IR)
+Visible Light
+Ultraviolet (UV)
+X-rays
+Gamma Rays
+Optics
+Light Ray
+Reflection
+Refraction
+Snell's Law
+Total Internal Reflection (TIR)
+Lens
+Convex Lens
+Concave Lens
+Mirror
+Plane Mirror
+Spherical Mirror
+Focal Length
+Real Image
+Virtual Image
+Magnification
+Diffraction
+Interference
+Young's Double Slit
+Polarization
+Dispersion
+Spectrum
+Coherence
+Monochromatic
+Photon
+Photoelectric Effect
+Blackbody Radiation
+Planck's Constant
+Modern Physics
+Quantum Mechanics
+Quantum
+Photon
+Electron
+Proton
+Neutron
+Atomic Nucleus
+Atomic Structure
+Bohr Model
+Quantum Number
+Principle Quantum Number
+Angular Momentum Quantum Number
+Magnetic Quantum Number
+Spin Quantum Number
+Wave-Particle Duality
+De Broglie Wavelength
+Heisenberg's Uncertainty Principle
+Schrödinger Equation
+Wave Function
+Probability Density
+Quantum Tunneling
+Pauli Exclusion Principle
+Atomic Orbitals
+Electron Shells
+Energy Levels
+Ground State
+Excited State
+Emission Spectrum
+Absorption Spectrum
+Laser
+Stimulated Emission
+Population Inversion
+Quantum Entanglement
+Quantum Superposition
+Quantum Field Theory
+Standard Model
+Fermion
+Boson
+Lepton
+Quark
+Hadron
+Baryon
+Meson
+Gluon
+Photon
+W Boson
+Z Boson
+Higgs Boson
+Graviton (hypothetical)
+Neutrino
+Antiparticle
+Antimatter
+Annihilation
+Pair Production
+Nuclear Physics
+Nucleus
+Nucleon
+Isotope
+Isotone
+Isobar
+Radioactivity
+Alpha Decay
+Beta Decay (Beta-plus, Beta-minus)
+Gamma Decay
+Half-Life
+Nuclear Fission
+Nuclear Fusion
+Binding Energy
+Mass Defect
+Chain Reaction
+Critical Mass
+Nuclear Reactor
+Radiation
+Ionizing Radiation
+Geiger Counter
+Cosmic Rays
+Relativity
+Special Relativity
+General Relativity
+Postulates of Special Relativity
+Speed of Light (c)
+Time Dilation
+Length Contraction
+Relativistic Mass (deprecated concept, but common)
+Mass-Energy Equivalence (E=mc 
+2
+ )
+Spacetime
+Four-vector
+Lorentz Transformation
+Invariant Mass
+Equivalence Principle
+Gravitational Lensing
+Black Hole
+Event Horizon
+Singularity
+Wormhole (hypothetical)
+Gravitational Waves
+LIGO
+GPS (Global Positioning System)
+Astrophysics
+Cosmology
+Universe
+Galaxy
+Star
+Planet
+Moon
+Solar System
+Nebula
+Supernova
+Neutron Star
+Pulsar
+Quasar
+White Dwarf
+Red Giant
+Main Sequence
+Stellar Evolution
+Hertzsprung-Russell Diagram
+Big Bang
+Cosmic Microwave Background (CMB)
+Dark Matter
+Dark Energy
+Hubble's Law
+Redshift
+Blueshift
+Expansion of the Universe
+Olbers' Paradox
+Critical Density
+Flat Universe
+Open Universe
+Closed Universe
+Multiverse (speculative)
+Early Universe
+Nucleosynthesis
+Recombination Epoch
+Inflation (cosmology)
+Exoplanet
+Condensed Matter Physics
+Solid State Physics
+Crystal Structure
+Amorphous Solid
+Unit Cell
+Lattice
+Bravais Lattice
+Miller Indices
+Band Theory
+Conduction Band
+Valence Band
+Band Gap
+Insulator
+Conductor
+Semiconductor
+Doping
+n-type Semiconductor
+p-type Semiconductor
+pn-junction
+Diode
+Transistor
+LED (Light Emitting Diode)
+Photovoltaic Effect
+Superconductivity
+Meissner Effect
+Critical Temperature
+BCS Theory
+High-Tc Superconductors
+Magnetism
+Ferromagnetism
+Paramagnetism
+Diamagnetism
+Domains (magnetic)
+Hysteresis
+Spintronics
+Liquid Crystal
+Phase Transition (condensed matter)
+Phonon
+Exciton
+Plasmon
+Graphene
+Topological Insulator
+Bose-Einstein Condensate (BEC)
+Superfluidity
+Quantum Hall Effect
+Fluid Dynamics
+Fluid
+Liquid
+Gas
+Viscosity (η)
+Surface Tension (γ)
+Capillary Action
+Buoyancy
+Archimedes' Principle
+Streamline Flow (Laminar)
+Turbulent Flow
+Reynolds Number
+Bernoulli's Principle
+Navier-Stokes Equations
+Drag
+Lift
+Aerodynamics
+Hydrodynamics
+Pascal's Principle
+Hydraulics
+Continuum Mechanics
+Simulation
+Modeling
+Numerical Method
+Finite Element Method (FEM)
+Monte Carlo Simulation
+Data Analysis
+Error Analysis
+Uncertainty Quantification
+Differential Equations
+Partial Differential Equations
+Vector Calculus
+Fourier Transform
+Okay, here's another list of physics terms, focusing on a mix of foundational, slightly more advanced, and specialized concepts to enhance your model's training.
+
+Absolute Zero
+Absorbed Dose
+Absorption Spectrum
+Acoustics
+Action (physics)
+Activity (radioactive)
+Adhesion
+Adiabatic Expansion
+Aerodynamics
+Air Resistance
+Alpha Particle
+Alternating Current (AC)
+Ammeter
+Amorphous Solid
+Ampere-Hour
+Ampere's Law
+Analogue Signal
+Angular Magnification
+Anion
+Annihilation Radiation
+Anode
+Antenna
+Anti-gravity
+Antimatter
+Antineutrino
+Antiparticle
+Aperture
+Apparent Depth
+Apparent Weight
+Applied Force
+Arc Length
+Arcsecond
+Armature
+Astronomical Unit (AU)
+Atmospheric Pressure
+Atomic Mass Unit (amu)
+Atomic Number
+Attractor
+Attenuation
+Audio Frequency
+Aurora
+Avogadro's Hypothesis
+Axial Vector
+Back EMF
+Ballistic Pendulum
+Band Gap Engineering
+Barometer
+Baryon Number
+Battery (electric)
+Becquerel (Bq)
+Beta Particle
+Big Crunch (cosmology)
+Biot-Savart Law
+Birefringence
+Black Hole Evaporation
+Bloch Wave
+Boltzmann Distribution
+Boolean Logic
+Bound State
+Bragg Diffraction
+Bremsstrahlung
+Brownian Motion
+Brush (electrical)
+Bulk Modulus
+Cable (mechanical)
+Calorie
+Canonical Transformation
+Capacitive Reactance
+Cartesian Coordinates
+Cathode
+Cathode Ray Tube (CRT)
+Cavity Resonator
+Celestial Mechanics
+Center of Mass (CM)
+Centi-
+Chain Decay
+Chaos Theory
+Charge Density
+Charge-Coupled Device (CCD)
+Cherenkov Radiation
+Chromatic Aberration
+Circuit Breaker
+Cladding (fiber optics)
+Classical Field Theory
+Clausius-Clapeyron Equation
+Cloud Chamber
+Coercivity
+Coherent Light
+Coil (electrical)
+Collector (transistor)
+Commutator
+Complementarity Principle
+Compton Effect
+Computational Fluid Dynamics (CFD)
+Concave Mirror
+Conduction Band
+Conductivity (thermal)
+Conical Pendulum
+Conjugate Variables
+Conservation Law
+Conservative Force
+Constitutive Relation
+Contraction (tensor)
+Control Rod
+Convex Mirror
+Coriolis Effect
+Corpuscular Theory of Light
+Correspondence Principle
+Cosmic Rays
+Cosmological Horizon
+Coulomb Barrier
+Covariant
+Crest (wave)
+Critical Angle
+Critical Density (fluid)
+Critical Dimension
+Critical Pressure
+Critical Temperature (superconductor)
+Cross Section (physics)
+Cryogenics
+Crystal Field Theory
+Curie Temperature
+Current Density
+Cutoff Frequency
+Cyclotron
+D'Alembert's Principle
+De Broglie-Bohm Theory
+Debye Length
+Decay Constant
+Deformation
+Degeneracy
+Demagnetization
+Detector (particle)
+Deuterium
+Diaphragm (optics)
+Diathermy
+Dielectric Breakdown
+Differential Geometry
+Diffusion Coefficient
+Digital Signal
+Dilatation
+Diode Laser
+Dirac Equation
+Direct Current (DC)
+Directrix (optics)
+Discharge Tube
+Dislocation (material science)
+Dispersion Relation
+Divergence (vector calculus)
+Domain Wall
+Donor Impurity
+Double Refraction
+Drag Coefficient
+Drift Velocity
+Ductility
+Dynamo
+Echo
+Eddy Current
+Effective Mass
+Einstein Field Equations
+Elastic Modulus
+Electrical Conductivity
+Electret
+Electrodynamics
+Electroluminescence
+Electrolyte
+Electrometer
+Electron Affinity
+Electron Cloud
+Electron Volt (eV)
+Electronegativity
+Electroscope
+Electroweak Interaction
+Element (chemistry/physics)
+Elliptical Orbit
+Emitter (transistor)
+Endothermic Process
+Endurance Limit
+Epicycle
+Equilibrium (static)
+Equipartition of Energy
+Escape Velocity
+Ether (luminiferous)
+Euler-Lagrange Equation
+Eutectic
+Evaporation
+Exciton (condensed matter)
+Exothermic Process
+Extrinsic Semiconductor
+Farad (F)
+Fermi Energy
+Fermi Gas
+Fermi Level
+Fermion Condensate
+Ferroelectricity
+Fiber Optics
+Field Line
+Fine Structure Constant
+Fission Product
+Fixed Point
+Flange
+Fleming's Rules
+Flow Rate
+Fluid Statics
+Fluorescence
+Forbidden Gap
+Fourier Series
+Fractional Quantum Hall Effect
+Fraunhofer Diffraction
+Free Body Diagram (FBD)
+Free Electron Model
+Free Space
+Frequency Modulation (FM)
+Fuel Cell
+Fullerene
+Fundamental Interaction
+Fusion Reactor
+Gain (electronics)
+Galilean Transformation
+Galvanometer
+Gas Discharge
+Gauge Invariance
+Gaussian Surface
+Geiger-Müller Tube
+General Covariance
+Geodesic
+Geometric Optics
+Geophysics
+Gimbal
+Ginzburg-Landau Theory
+Global Symmetry
+Gradient (vector calculus)
+Grand Unified Theory (GUT)
+Grating (diffraction)
+Gravitational Constant (G)
+Gravitational Redshift
+Graviton
+Gray (Gy)
+Ground State
+Group Velocity
+Gyroscope
+Hadron Collider
+Hall Effect
+Harmonic (sound)
+Harmonic Oscillator
+Heat Death of the Universe
+Heat Exchanger
+Heat Sink
+Heaviside Layer
+Helmholtz Resonance
+Henry (H)
+Hertz (Hz)
+Heterostructure
+Homojunction
+Hubble Constant
+Huygens' Principle
+Hydraulics
+Hydrogen Bond
+Hydrostatics
+Hysteresis Loop
+Ice Point
+Ignition Temperature
+Image Sensor
+Impact Parameter
+Impedance Matching
+Incandescence
+Index of Refraction
+Induced Current
+Induced EMF
+Inductive Reactance
+Inelastic Scattering
+Infrared Spectroscopy
+Inhomogeneous
+Insulation (thermal/electrical)
+Integrable System
+Integrated Circuit (IC)
+Interaction (physics)
+Interference Pattern
+Interferometer
+Internal Reflection
+Intrinsic Semiconductor
+Inverse Square Law
+Ion
+Ionization Energy
+Irradiance
+Ising Model
+Isochronism
+Joule Heating
+Joule-Thomson Effect
+Junction (semiconductor)
+Kalman Filter
+Kerr Effect
+Kinetic Energy Density
+Kirchhoff's Current Law
+Kirchhoff's Voltage Law
+Knudsen Number
+Krypton
+Landau Damping
+Larmor Precession
+Lattice Constant
+Least Action Principle
+Lepton Number
+Lie Group
+Light-Emitting Diode (LED)
+Light Pipe
+Light-Year
+Linear Accelerator
+Linear Momentum
+Lissajous Figure
+Liquid Drop Model
+Lithium
+Local Symmetry
+Logarithm
+Longitudinal Wave
+Loudspeaker
+Lumen
+Luminosity Function
+Lux
+Magnetic Bottle
+Magnetic Dipole Moment
+Magnetic Domain
+Magnetic Permeability
+Magnetic Resonance Imaging (MRI)
+Magnetic Susceptibility
+Magnetohydrodynamics (MHD)
+Magnetometer
+Magnetron
+Magnification (optical)
+Mains Electricity
+Malus's Law
+Maser
+Mass Defect
+Mass Spectrometer
+Matter Wave
+Maxwell's Demon
+Mean Free Path
+Mechanical Advantage
+Mechanical Energy
+Meissner-Ochsenfeld Effect
+Melting Point
+Meson Exchange
+Metastable State
+Microscope
+Microwave Oven
+Miller Index
+Mirror Image
+Mobile Charge Carrier
+Modulation
+Moire Pattern
+Molar Mass
+Molecular Dynamics
+Monopole (magnetic)
+Multi-electron Atom
+Muon
+Nanotechnology
+Navier-Stokes Equations
+Nematic Liquid Crystal
+Neodymium Magnet
+Net Force
+Neural Network (physics applications)
+Neutrino Oscillation
+Newtonian Fluid
+Noble Gas
+Node (wave)
+Noise (signal)
+Non-Newtonian Fluid
+Nuclear Magnetic Resonance (NMR)
+Nuclear Spin
+Nucleosynthesis
+Null Hypothesis
+Numerical Aperture
+Observables (quantum)
+Oceanography (physical)
+Ohmic Contact
+Ohmic Heating
+Optical Activity
+Optical Fiber
+Optical Pumping
+Optoelectronic Device
+Orbital Mechanics
+Order Parameter
+Oscilloscope
+Overdamped Oscillation
+Pair Annihilation
+Pair Production
+Parabolic Trajectory
+Paramagnetism
+Parity (physics)
+Partial Pressure
+Particle Accelerator
+Pascal's Principle
+Passive Device
+Peltier Effect
+Penning Trap
+Penumbra
+Perfect Fluid
+Period (wave)
+Permeability (magnetic)
+Permittivity
+Perovskite
+Phase (wave)
+Phase Angle
+Phase Coherence
+Phase Space
+Phase Velocity
+Phonon Gas
+Photoconductivity
+Photodiode
+Photomultiplier Tube
+Photon Echo
+Photonics
+Photovoltaic Cell
+Piezoelectric Effect
+Pinch Effect
+Planck Scale
+Plasma Physics
+Plastic Deformation
+Plate Tectonics (geophysics)
+Polar Covalent Bond
+Polarimeter
+Polarizability
+Population Inversion
+Positron
+Potential Barrier
+Potential Well
+Power (electrical)
+Power Dissipation
+Poynting Vector
+Precession
+Pressure Gradient
+Principal Axis (optics)
+Principle of Equivalence
+Probability Current
+Projectile Motion
+Proper Length
+Proper Time
+Proportional Counter
+Proton Decay (hypothetical)
+Quantum Annealing
+Quantum Chromodynamics (QCD)
+Quantum Computing
+Quantum Dot
+Quantum Efficiency
+Quantum Electrodynamics (QED)
+Quantum Fluctuation
+Quantum Gravity
+Quantum Hall Effect
+Quantum Information
+Quantum Jumps
+Quantum Logic Gate
+Quantum Optics
+Quantum Phase Transition
+Quantum State
+Quantum Statistics
+Quantum Yield
+Quark-Gluon Plasma (QGP)
+Quench (superconductivity)
+Radar
+Radiant Energy
+Radiative Transfer
+Radioisotope
+Rayleigh Scattering
+Reactance
+Reactor Core
+Recoil
+Rectifier
+Redshift (cosmological)
+Reflecting Telescope
+Refraction Index
+Refrigeration Cycle
+Relativistic Doppler Effect
+Remanence
+Resonance Frequency
+Resonator
+Rest Energy
+Rest Mass
+Retardation (electromagnetism)
+Retrograde Motion
+Reverberation
+Rheology
+Richardson-Dushman Equation
+Rigid Body
+Root-Mean-Square (RMS)
+Rotational Inertia
+Rutherford Scattering
+Rydberg Atom
+Rydberg Constant
+Satellite
+Saturable Absorber
+Scalar Field
+Scanning Electron Microscope (SEM)
+Scattering Cross Section
+Schottky Barrier
+Scintillation Counter
+Screw Rule
+Secondary Emission
+Seebeck Effect
+Seismology
+Self-Inductance
+Semiconductor Diode
+Shadow
+Shear Modulus
+Shear Stress
+Shock Front
+Short Circuit
+Sideband
+Siemens (unit)
+Signal-to-Noise Ratio (SNR)
+Silicon Valley
+Simple Pendulum
+Sine Wave
+Single-Mode Fiber
+Singularity (gravitational)
+Solar Constant
+Solar Wind
+Solenoid
+Solid-State Drive (SSD)
+Sonar
+Sound Barrier
+Space-Time Curvature
+Spark Chamber
+Spatiotemporal
+Spectrograph
+Spectrometer
+Spectral Line
+Speed of Sound
+Spherical Aberration
+Spherical Harmonics
+Spin Glass
+Spin-Orbit Coupling
+Spontaneous Emission
+Spring Constant
+Standard Candle
+Standing Wave Ratio (SWR)
+Static Equilibrium
+Statistical Mechanics
+Stefan-Boltzmann Law
+Stellar Mass
+Stiffness
+Stimulated Absorption
+Stochastic Process
+Strain (mechanics)
+Strain Gauge
+Stress (mechanics)
+String Theory
+Strong Force
+Sublimation
+Subsonic
+Superconducting Magnet
+Superluminal
+Superposition Theorem (circuits)
+Supersonic
+Surface Acoustic Wave (SAW)
+Surface Energy
+Symmetry Breaking
+Synchrotron
+Tachyon (hypothetical)
+Tangential Acceleration
+Tangential Velocity
+Teleportation (quantum)
+Terahertz Radiation
+Tesla (T)
+Thermal Conductivity
+Thermal Equilibrium
+Thermal Expansion
+Thermal Noise
+Thermionic Emission
+Thermocouple
+Thermodynamic Potential
+Thermodynamic Process
+Thermodynamic System
+Thermoelectric Effect
+Thermometer
+Thermonuclear Fusion
+Thin Film
+Thomson Scattering
+Threshold Energy
+Tidal Force
+Time Crystal (hypothetical)
+Time Dilation
+Torque Convertor
+Torr
+Total Reflectance
+Transducer
+Transformer
+Transient Response
+Transistor-Transistor Logic (TTL)
+Transmission Electron Microscope (TEM)
+Transmission Line
+Transmutations
+Transport Phenomena
+Transverse Wave
+Triple Point (thermodynamics)
+Tritium
+Trough (wave)
+Tunnel Diode
+Turbulence
+Ultrafast Optics
+Ultrasonics
+Ultraviolet Catastrophe
+Umbra
+Uncertainty Principle
+Underdamped Oscillation
+Uniform Circular Motion
+Unit Vector
+Vacuum Energy
+Vacuum State
+Valence Electron
+Van der Waals Force
+Vapor Pressure
+Vector Field
+Vector Potential
+Velocity Selector
+Venturi Effect
+Vibrational Mode
+Viscoelasticity
+Visible Spectrum
+Voltmeter
+Vortex
+Wave Equation
+Wave Front
+Wave Guide
+Wave Impedance
+Wave Number
+Wave Packet
+Wave-Particle Duality
+Weak Equivalence Principle
+Weak Interaction
+Weber (Wb)
+Weightlessness
+Weinberg Angle
+Whispering Gallery Mode
+Wien's Displacement Law
+Wind Shear
+Work Function
+X-ray Diffraction
+X-ray Fluorescence
+Yield Strength
+Young's Modulus
+Zero-Point Energy
+Zener Diode
+Zeta Function (Riemann)
+Okay, here are even more physics terms, trying to cover additional niche areas, historical concepts, and cross-disciplinary terms that have strong roots in physics.
+
+Aberration (optical)
+Absolute Humidity
+Absolute Space
+Absolute Time
+Absorption Coefficient
+Acoustic Impedance
+Action-at-a-Distance
+Activation Energy (physics context)
+Active Medium
+Actuator
+Adsorption
+Aeolian Tone
+Aerogel
+Affinity (chemical, historical physics)
+Airfoil
+Albedo
+Alfvén Wave
+Algorithm (computational physics)
+Allotropic
+Alpha Blocker
+Ambipolar Diffusion
+Amorphous Semiconductor
+Ampere-Maxwell Law
+Anechoic Chamber
+Angular Deflection
+Angular Dispersion
+Angular Resolution
+Anisotropy
+Anomalous Dispersion
+Antiferromagnetism
+Antinode
+Arc Discharge
+Areal Velocity
+Aspect Ratio
+Astigmatism
+Atomic Clock
+Atomic Force Microscope (AFM)
+Atomic Mass
+Atomic Radii
+Audio Amplifier
+Autocorrelation Function
+Backscattering
+Ballistic Missile
+Band Structure
+Bending Moment
+Bessel Function (applied in waves)
+Bias (electronics)
+Bilayer
+Binary Star
+Bioacoustics
+Birefringence
+Bistability
+Bloch Oscillations
+Bloch Wall
+Bohr Magneton
+Bolometer
+Boltzmann Equation
+Born-Oppenheimer Approximation
+Bragg's Law
+Breakdown Voltage
+Bremsstrahlung Radiation
+Brittle Fracture
+Bubble Chamber
+Bulk Modulus
+Capacitive Coupling
+Capacitor Bank
+Carbon Nanotube
+Carnot Efficiency
+Catadioptric System
+Cathodoluminescence
+Causality
+Cavitation
+Cellular Automaton (computational physics)
+Cepheid Variable
+CGS System
+Channel (electronics)
+Chaos (deterministic)
+Charge Carrier
+Charge-to-Mass Ratio
+Chemical Potential
+Chemiluminescence
+Chiral Anomaly
+Chromaticity
+Circuit Diagram
+Cladding (fiber optics)
+Classical Limit
+Clifford Algebra (theoretical physics)
+Clockwise
+Coaxial Cable
+Cohesion
+Coilgun
+Coincidence Counting
+Cold Fusion (controversial)
+Collisional Broadening
+Color Center
+Color Charge (QCD)
+Coma (optics)
+Compliance (mechanics)
+Composite Material
+Compressibility
+Compton Wavelength
+Conductance
+Conduction Electron
+Confining Potential
+Conformal Field Theory
+Conical Refraction
+Conservative Field
+Conserved Quantity
+Contact Angle
+Contour Integral
+Control Volume
+Convection Current
+Cooperative Phenomenon
+Coordinates (spatial/temporal)
+Cosmic String (hypothetical)
+Coulomb Blockade
+Counterclockwise
+Covalent Bond (physics of)
+Creep (material science)
+Critical Exponent
+Critical State (superconductivity)
+Cross-Correlation
+Cross-Polarization
+Cryostat
+Curie-Weiss Law
+Curie Temperature
+Curvature (spacetime)
+Cyclotron Resonance
+D'Alembertian Operator
+De Sitter Space
+Debye Model
+Decay Mode
+Decibel (dB)
+Defect (crystal)
+Deformation Potential
+Degrees per Second
+Delocalization
+Demagnetization Factor
+Density of States (DOS)
+Depletion Region
+Detailed Balance
+Determinism
+Deviation (optics)
+Dew Point
+Diamagnetism
+Dichroism
+Dielectric Loss
+Diffraction Grating
+Dilution Refrigerator
+Dipole Moment
+Direct Energy Conversion
+Direct Gap Semiconductor
+Dispersion Force
+Dissipation
+Distortion (optics)
+Divergence Theorem
+Doppler Broadening
+Drift Current
+Drude Model
+Duality (wave-particle, string theory)
+Ductile Fracture
+Dynamical System
+Eccentricity (orbit)
+Echo Sounding
+Edge State (quantum Hall)
+Effective Potential
+Ehrenfest Theorem
+Eigenfunction
+Eigenstate
+Eigenvalue
+Einstein-Podolsky-Rosen (EPR) Paradox
+Elastic Limit
+Elastomer
+Electret
+Electric Susceptibility
+Electrocution
+Electrodialysis
+Electrohydrodynamics
+Electroluminescence
+Electrolysis (physical process)
+Electromagnetic Induction
+Electromechanical Coupling
+Electron Beam Lithography
+Electron Diffraction
+Electron Gas
+Electron Microscopy
+Electron-Positron Annihilation
+Electro-Optic Effect
+Electrophoresis
+Electrospraying
+Electrostatic Discharge (ESD)
+Ellipsoid
+Emission Coefficient
+Emittance (optics)
+Empirical Formula
+Energy Band
+Energy Flux
+Energy Gap
+Energy Level Diagram
+Enhancement Mode (transistor)
+Ensemble Average
+Entrainment
+Epitaxy
+Equilibrium Point
+Ergodicity
+Ether Drag
+Evanescent Wave
+Evaporative Cooling
+Excitonic Condensate
+Exosphere
+Exponential Decay
+Extinction Coefficient
+Extracorporeal
+Fabry-Pérot Interferometer
+Faraday Cage
+Faraday Effect
+Fermi-Dirac Statistics
+Fermi Resonance
+Fermi Surface
+Ferrite
+Ferrofluid
+Feynman Diagram
+Fick's Laws of Diffusion
+Field Emission
+Field Ion Microscope (FIM)
+Figure of Merit
+Filament (light bulb)
+Filter (electronics/optics)
+Fine Structure
+First-Order Phase Transition
+Fizeau Experiment
+Flame Photometry
+Flashlamp
+Floquet Theory
+Fluid Instability
+Fluorescence Spectroscopy
+Flux Quantization
+Fokker-Planck Equation
+Force Field (computational)
+Force Multiplier
+Forced Vibration
+Forward Bias
+Fractal Dimension
+Franck-Hertz Experiment
+Free-Electron Laser (FEL)
+Fresnel Equations
+Frustration (magnetism)
+Fugacity
+Fundamental Frequencies
+Galilean Invariance
+Gamma Ray Burst (GRB)
+Gas Constant
+Gas Discharge Lamp
+Gauge Boson
+Gauss's Law for Magnetism
+General Relativistic Magnetohydrodynamics (GRMHD)
+Geodesic Deviation
+Geomagnetism
+Geophone
+Geostationary Orbit
+Glauber State
+Global Positioning System (GPS) physics
+Gradient Index (GRIN) Lens
+Grand Canonical Ensemble
+Grand Unification Scale
+Gravimetric Analysis
+Gravitational Collapse
+Green's Function
+Group Theory (physics applications)
+Guiding Center
+Gyromagnetic Ratio
+Hadronic Matter
+Halo Effect (optics)
+Hall-Effect Sensor
+Hardness (material)
+Heat of Formation
+Heat Transfer Coefficient
+Heavy Fermion
+Helical Motion
+Helmholtz Coil
+Henry's Law (related to gas dissolution)
+Herman-Mauguin Notation
+Heterojunction
+Heusler Alloy
+High-Energy Physics
+Holography
+Homodyne Detection
+Homogenization
+Hooke's Joint
+Hot Carrier
+Hubble Volume
+Hund's Rules
+Hydraulic Conductivity
+Hydrodynamic Stability
+Hyperfine Structure
+Hysteresis Loss
+Illumination
+Impedance Spectroscopy
+Impurity Band
+Incandescent Light
+Inertial Confinement Fusion
+Inertial Guidance
+Infrared Divergence
+Injection Laser
+In-Phase
+Instrumentation
+Interatomic Force
+Interface (physics)
+Internal Conversion
+Internal Resistance
+Invar
+Inverse Compton Scattering
+Inverse Problems (physics)
+Ion Beam
+Ion Trap
+Ionosphere
+Iridescence
+Ising Model
+Isentropic Process
+Isoelectric Point
+Isolated System
+Isomer (nuclear)
+Isosceles Triangle (geometry in physics)
+Isotropy
+Jaeger Constant
+Jerk (mechanics)
+Josephson Effect
+Joule-Brayton Cycle
+Jumping Spark
+K-edge (X-ray absorption)
+Kapitza Resistance
+Kerr Effect
+Kinetic Friction
+Kinetic Inductance
+Klein-Gordon Equation
+Kondo Effect
+Kramers-Kronig Relations
+Kundt's Tube
+Lagrangian Density
+Lambda Point
+Landau Levels
+Langevin Equation
+Laplacian Operator
+Larmor Radius
+Laser Cooling
+Lattice Distortion
+Lattice Energy
+Law of Action and Reaction
+Law of Conservation of Mass-Energy
+Law of Cosines (applied in vectors)
+Law of Sines (applied in vectors)
+Least Squares Method (data analysis)
+Lennard-Jones Potential
+Lever Arm
+Lifshitz Transition
+Light Emitting Electrochemical Cell (LEC)
+Light Field
+Limit Cycle
+Linearity (system response)
+Liquid Metal
+Liquefaction
+Lissajous Curves
+Loading (mechanics)
+Local Density Approximation
+London Equations
+Long-Range Order
+Longitudinal Magnetoresistance
+Loop Quantum Gravity (speculative)
+Lorentz Invariance
+Lorentzian Line Shape
+Loudness Level
+Luminescence
+Luminosity Distance
+Mach-Zehnder Interferometer
+Magnetic Anisotropy
+Magnetic Bottle
+Magnetic Bubble
+Magnetic Circular Dichroism (MCD)
+Magnetic Confinement Fusion
+Magnetic Hysteresis
+Magnetic Mirror
+Magnetic Permittivity
+Magnetic Screening
+Magnetization Curve
+Magneto-Optic Effect
+Magnetoresistance
+Magnetostriction
+Magnon
+Maser (Microwave Amplification by Stimulated Emission of Radiation)
+Mass Flow Rate
+Matter-Antimatter Asymmetry
+Mean Field Theory
+Measurement (physical)
+Mechanical Resonance
+Meissner Effect
+Membrane (physics of)
+Mesoscopic Physics
+Metallicity
+Metamaterial
+Metastability
+Michelson Interferometer
+Micro-Electro-Mechanical Systems (MEMS)
+Microfluidics
+Microgravity
+Microphotonics
+Microprocessor (physics of operation)
+Microwave Spectroscopy
+Mie Scattering
+Minimal Surface (related to soap films etc.)
+Mode Locking
+Modulation Transfer Function (MTF)
+Moiré Fringes
+Molecular Beam Epitaxy (MBE)
+Molecular Clouds
+Molecular Spectroscopy
+Molten Salt Reactor
+Moment of Force
+Momentum Density
+Monolayer
+Mössbauer Effect
+Multiferroic
+Multilayer
+Muon Catalyzed Fusion
+Nano-optics
+Nanowire
+Natural Frequency
+Near-Field Optics
+Negative Refraction
+Nernst Effect
+Neutron Activation Analysis
+Neutron Diffraction
+Neutron Star Merger
+Newton's Cradle
+Nichrome
+Nilpotent
+Nematic Liquid Crystal
+Non-Abelian Gauge Theory
+Nonlinear Dynamics
+Nonlinear Optics
+Non-Newtonian Fluid
+Normal Mode
+Nuclear Isomer
+Nuclear Quadrupole Resonance (NQR)
+Nucleation
+Null Geodesic
+Numerical Relativity
+Observer (relativity)
+Off-Axis (optics)
+Opacity
+Operational Amplifier (Op-Amp)
+Optical Confinement
+Optical Pumping
+Optical Rectification
+Optogalvanic Effect
+Orbital Angular Momentum
+Order-Disorder Transition
+Organ Pipe (acoustics)
+Ortho-Para Hydrogen
+Oscillation Damping
+Osmotic Pressure
+Out-of-Phase
+Overpressure
+P-N Junction
+P-Wave (seismology)
+Parametric Down-Conversion
+Parametric Oscillator
+Paraxial Approximation
+Partial Coherence
+Particle-in-a-Box
+Paschen-Back Effect
+Passive Optical Network (PON)
+Peltier Junction
+Penetration Depth (superconductivity)
+Penumbra (shadow)
+Percolation Theory
+Permeability (materials)
+Perturbation Theory
+Phase Conjugation
+Phase Contrast Microscopy
+Phase Diagram
+Phase Matching
+Phase Space (statistical mechanics)
+Phase Transition Temperature
+Phonon Scattering
+Photocathode
+Photoconductor
+Photodetector
+Photoelectron Spectroscopy (PES)
+Photoemission
+Photogalvanic Effect
+Photoionization
+Photoluminescence
+Photon Correlation Spectroscopy
+Photonic Crystal
+Photonic Metamaterial
+Photosynthesis (physics of light absorption)
+Phototransistor
+Piezoresistance
+Pinch Point (thermodynamics)
+Plasma Display
+Plasma Frequency
+Plasma Sheath
+Plasticity
+Plate Waves
+Pockels Effect
+Polariton
+Polarization Rotation
+Polarizer
+Polycrystalline
+Polymer Physics
+Ponderomotive Force
+Population Dynamics (physics model)
+Positron Emission Tomography (PET)
+Power Series (math for physics)
+Precession of the Equinoxes
+Pressure Cooker (physics)
+Principal Component Analysis (PCA) in physics data
+Prism (optics)
+Probe (instrumentation)
+Projector
+Proper Motion
+Proximity Effect (superconductivity)
+Pseudopotential
+Pulsar Timing Array
+Pump (laser)
+Pyroelectric Effect
+Q-factor (resonance)
+Quadrature (waves)
+Quantization Axis
+Quantum Annealing
+Quantum Coherence
+Quantum Computing
+Quantum Dot Solar Cell
+Quantum Efficiency
+Quantum Eraser
+Quantum Fluid
+Quantum Gates
+Quantum Homodyne Tomography
+Quantum Limit
+Quantum Logic
+Quantum Nonlocality
+Quantum Phase
+Quantum Random Number Generator
+Quantum Sensing
+Quantum Solid
+Quantum Well
+Quantum Wire
+Quasi-Crystal
+Quasiclassical Approximation
+Quenching (fluorescence)
+Radiant Flux
+Radiation Belt
+Radiation Hardening
+Radio Astronomy
+Radiocarbon Dating
+Radiography
+Radionuclide
+Raman Effect
+Random Walk (physics)
+Range (projectile motion)
+Rare Earth Magnet
+Rayleigh Criterion
+Rayleigh-Jeans Law
+Reactive Power
+Readout (detector)
+Recombination (semiconductor)
+Rectilinear Motion
+Reflectance
+Reflecting Power
+Regenerative Braking
+Relaxation Time
+Relativistic Jet
+Remanent Magnetization
+Repulsion
+Residual Stress
+Resistive Heating
+Resolution (optical)
+Resonance Absorption
+Resonant Cavity
+Retardation Plates
+Retroreflector
+Reverse Bias
+Reversed-Field Pinch
+Rheometer
+Richardson Law
+Rigidity
+Robertson-Walker Metric
+Rochon Prism
+Rolling Friction
+Root Mean Square Deviation
+Rotational Spectra
+Roughness (surface physics)
+Runaway Electron
+Rydberg Formula
+S-Matrix
+Sagnac Effect
+Salt Effect
+Saturable Absorber
+Saturation Current
+Scalar Potential
+Scaling Law
+Scanning Tunneling Microscope (STM)
+Scattering Amplitude
+Schottky Noise
+Schrödinger's Cat
+Scintillator
+Screening Effect (electrostatics)
+Second Harmonic Generation (SHG)
+Second Quantization
+Seebeck Coefficient
+Self-Assembly
+Self-Force (electrodynamics)
+Self-Inductance
+Semiconductor Laser
+Shear Strain
+Shear Wave
+Shell Model (nuclear)
+Shock Front
+Shot Noise
+Shunt (electrical)
+Sievert (Sv)
+Signal Processing (physics context)
+Silent Discharge
+Silicon-on-Insulator (SOI)
+Simple Machine
+Sintering
+Skin Depth
+Skyrmion
+Sliding Friction
+Slinky (wave demonstration)
+Slow Light
+Smectic Liquid Crystal
+Solenoid Valve
+Solid-State Laser
+Soliton
+Soret Effect
+Sound Intensity Level
+Space Charge
+Space-Time Diagram
+Spallation
+Spectroscopy
+Spherical Wave
+Spin Correlation
+Spin Crossover
+Spin-Lattice Relaxation
+Spin Polarization
+Spin-Statistics Theorem
+Splitting (energy levels)
+Spontaneous Fission
+Spreading Resistance
+Sputtering
+Stability Criteria
+Stark Effect
+Static Charge
+Statistical Ensemble
+Steady State
+Stellar Collapse
+Steradian (sr)
+Stereoscope
+Sticking Coefficient
+Stochastic Resonance
+Stokes Shift
+Stopping Power
+Stress Concentration
+Stress-Strain Curve
+String Vibration
+Structural Phase Transition
+Subcritical
+Supercritical Fluid
+Superfluid Helium
+Superheating
+Superlattice
+Superposition Principle (circuits)
+Surface Plasmon Resonance (SPR)
+Surface Tension Coefficient
+Susceptibility (magnetic/electric)
+Symmetric Top
+Synchrotron Radiation
+Systematic Error
+T-Wave (seismology)
+Tangential Stress
+Tap Water (physics of flow)
+Telescope (physics of)
+Tensile Strength
+Tensor (general physics)
+Thermal Conductivity Detector
+Thermal Diffusivity
+Thermal Expansion Coefficient
+Thermal Quenching
+Thermal Runaway
+Thermalization
+Thermionic Diode
+Thermodynamic Cycle
+Thermodynamic Equilibrium
+Thermodynamic Limit
+Thermophotovoltaics
+Third-Order Nonlinearity
+Thin Lens Equation
+Thomas-Fermi Model
+Time Domain Reflectometry (TDR)
+Time-of-Flight (TOF)
+Toggle Switch (physics of)
+Tokamak
+Topological Defect
+Toroidal Field
+Total Cross Section
+Trace (tensor)
+Track (particle physics)
+Transconductance
+Transistor Amplifier
+Transition Metal Oxide
+Transition State Theory (kinetics)
+Transmission Coefficient
+Transparent Material
+Transverse Doppler Effect
+Trap (electron/hole)
+Traveling Wave Tube (Triboelectric Effect)
+Tribology
+Trigger (electronics)
+Tunneling Junction
+Two-Dimensional Electron Gas (2DEG)
+Type I Superconductor
+Type II Superconductor
+Ultraviolet Divergence
+Uncertainty Propagation
+Uniaxial Anisotropy
+Unitarity (quantum mechanics)
+Universal Gas Constant
+Up-conversion (photonics)
+Uranium Enrichment
+Vacancies (crystal defects)
+Vacuum Fluctuation
+Vacuum Polarization
+Valence Band
+Valence Force Field
+Van Allen Belts
+Vapor-Liquid Equilibrium
+Variational Principle
+Velocity Field
+Venturi Meter
+Vibrating String
+Vibrational Spectroscopy
+Virial Theorem
+Virtual Particle
+Viscous Drag
+Vitreous
+Voigt Profile
+Voltaic Cell
+Vortex Shedding
+Wafer (semiconductor)
+Wake (fluid dynamics)
+Wall Effect
+Wavelength Division Multiplexing (WDM)
+Waveguide (electromagnetism)
+Wavemeter
+Weak Isospin
+Weak Neutral Current
+Wear (material science)
+Weighing Scale (physics)
+Weyl Fermion
+Whisker (crystal growth)
+Whistler (radio waves)
+White Noise
+Wilson Loop
+Winding Number
+Work Function (photoelectric)
+Working Fluid
+Wormhole (theoretical, non-traversable)
+X-ray Astronomy
+X-ray Crystallography
+X-ray Diffractometer
+Xenon
+Young's Double Slit Experiment
+Zeeman Effect
+Zener Breakdown
+Zero-Point Energy (quantum)
+Zero Sound
+Zero-Voltage Switching
+Zitterbewegung (quantum mechanics)
+Zone Melting
+Zylon
+Okay, here's another extensive list of physics terms, digging deeper into specialized areas, experimental techniques, and some historical or more nuanced concepts.
+
+Ablation
+Absolute Humidity
+Absolute Space
+Absolute Zero Point Energy
+Absorption Edge
+Absorption Spectroscopy
+Acousto-optic Effect
+Activation Volume
+Active Galactic Nucleus (AGN)
+Actinide
+Adiabatic Invariant
+Adiabatic Lapse Rate
+Admittance (electrical)
+Aerobraking
+Aether Drag Hypothesis
+Alfvén Waves
+All-Optical
+Allosteric Effect (biophysics)
+Alpha-Beta Filter
+Amperian Loop
+Analog-to-Digital Converter (ADC)
+Anapole Moment
+Angular Correlation
+Anharmonic Oscillator
+Anisotropy (magnetic/optical)
+Annealing
+Anomalous Hall Effect
+Antiferroelectricity
+Anti-Stokes Shift
+Aperiodic
+Aphelion
+Apogee
+Arbitrary Waveform Generator (AWG)
+Arc Furnace
+Archimedes' Screw (physics of operation)
+Areal Density
+Arrhenius Equation (kinetics in physics)
+Artifact (measurement)
+Astigmatism (optics)
+Atmospheric Optics
+Atomic Absorption Spectroscopy (AAS)
+Atomic Force Microscopy (AFM)
+Atomic Layer Deposition (ALD)
+Atomic Mass Unit
+Atomic Scattering Factor
+Attenuator
+Auger Electron Spectroscopy (AES)
+Autocatalysis (physical systems)
+Avalanche Diode
+Axial Vector Current
+Backlash (mechanics)
+Balancing (rotational)
+Ballistic Galvanometer
+Band Bending
+Band Pass Filter
+Band Stop Filter
+Bandwidth (signal)
+Barkhausen Effect
+Baryogenesis
+Beat Phenomenon
+Bell's Theorem
+Bennett Pinch
+Beta Function (Renormalization Group)
+Betatron
+Biaxial Crystal
+Bifurcation (chaos theory)
+Bilinear Form
+Bimetallic Strip
+Binding Energy Per Nucleon
+Bioelectromagnetism
+Biophysics
+Bipolar Junction Transistor (BJT)
+Birefringence
+Black Hole Information Paradox
+Bloch Equations
+Body-Centered Cubic (BCC)
+Bohm Diffusion
+Bohmian Mechanics
+Bolometer
+Boltzmann Transport Equation
+Born Approximation
+Bose Gas
+Bose-Hubbard Model
+Bound-Free Transition
+Boxcar Averager
+Bragg's Law
+Breakdown Voltage
+Breeder Reactor
+Brewster Angle
+Brightness (optics/astronomy)
+Brillouin Scattering
+Brillouin Zone
+Bubble Dynamics
+Bunching (particle beams)
+Burgers Vector
+Cable Loss
+Cadmium Telluride (CdTe)
+Calorimeter
+Canonical Ensemble
+Cantilever (mechanics)
+Capillary Electrophoresis (physics of)
+Capacitive Displacement Sensor
+Carbon Dating
+Carrier Injection
+Carrier Lifetime
+Casimir Effect
+Catenary (chain/cable physics)
+Catheter (medical physics)
+Cavity Quantum Electrodynamics (CQED)
+Cellular Automata (physics simulations)
+Center of Percussion
+Centrifugal Pump (physics of)
+Chalcogenide
+Channeling (particle physics)
+Characteristic X-ray
+Charge Density Wave (CDW)
+Charge Pumping
+Charge Transfer (physics)
+Charged Particle Optics
+Charmonium
+Chemical Vapor Deposition (CVD)
+Chiral Symmetry Breaking
+Chromatic Aberration
+Clamped (boundary condition)
+Classical Trajectory
+Clathrate Hydrate
+Coating (optics)
+Coaxial Resonator
+Coefficient of Restitution
+Coherence Length
+Cohesive Energy
+Cold Dark Matter (CDM)
+Cold Emission
+Collision Cross Section
+Colorimetry
+Commutator (quantum mechanics)
+Compactification (string theory)
+Compressive Strength
+Compton Scattering
+Computational Condensed Matter Physics
+Conduction Band Minimum (CBM)
+Configuration Space
+Confocal Microscopy
+Conformal Mapping (fluid dynamics)
+Conical Intersection
+Conjugate Gradient Method (numerical physics)
+Conserved Current
+Contact Potential
+Continuum Hypothesis (related to fluid modeling)
+Control Theory (physics applications)
+Convection Coefficient
+Convergence (numerical methods)
+Cooling Curve
+Corpuscular Theory (historical)
+Correlation Function
+Correspondence Principle
+Cosmic Censorship Hypothesis
+Cosmological Constant
+Cosmological Principle
+Coulomb Explosion
+Coulomb Gauge
+Counter-propagating Waves
+Coupled Oscillators
+Coupling Constant
+CCovariant Derivative
+Crank-Nicholson Method
+Creep Deformation
+Critical Field (superconductivity)
+Critical Opalescence
+Critical Phenomena
+Cross-Polarization (NMR)
+Cryogenic Engineering
+Crystal Field Splitting
+Crystal Oscillator
+Curie Point
+Current Mirror
+Curvature Scalar
+Cutoff Waveguide
+Cyclotron Frequency
+Czochralski Process
+Damage Threshold (laser)
+Damping Coefficient
+Dark Current
+Dark Energy Survey
+Dark Matter Halo
+De Haas-van Alphen Effect
+Debye Shielding
+De-excitation
+Degenerate Semiconductor
+Delay Line
+Delta Function
+Demodulation
+Density Functional Theory (DFT)
+Density Matrix
+Depletion Mode (transistor)
+Depolarization
+Destructive Interference
+Deuterium-Tritium Fusion
+Diabatic Process
+Diamagnetic Susceptibility
+Dielectric Resonator
+Differential Cross Section
+Differential Scanning Calorimetry (DSC)
+Diffraction Limited
+Diffusion Current
+Diffusion Length
+Digital Signal Processing (DSP) in physics
+Diode-Pumped Solid-State Laser
+Dipole Approximation
+Dirac Delta Function
+Disclination (liquid crystals)
+Discretization (numerical methods)
+Dislocation Density
+Disordered System
+Dispersion Force
+Dissipative System
+Divergence (vector field)
+Doppler Free Spectroscopy
+Dose Equivalent
+Double Layer (electrochemistry/physics)
+Drag Reduction
+Drain (transistor)
+Drift-Diffusion Model
+Dry Friction
+Dulong-Petit Law
+Dynamic Instability
+Dynamic Range
+Dynamical Mean-Field Theory
+Dynamical Symmetry Breaking
+Dynamo Theory
+Edge Current
+Effective Field Theory
+Effective Range (nuclear physics)
+Eigenmode
+Eigenstate Collapse
+Einstein Coefficients
+Elastic Aftereffect
+Elastic Deformation
+Elastodynamics
+Electrochemical Potential
+Electrodiffusion
+Electrodynamic Tether
+Electroforming
+Electroluminescent Display (ELD)
+Electrolytic Capacitor
+Electromagnetic Compatibility (EMC)
+Electromagnetic Pulse (EMP)
+Electron Capture (nuclear)
+Electron Cyclotron Resonance (ECR)
+Electron-Hole Pair
+Electron Impact Ionization
+Electron Microscopy
+Electron Spin Resonance (ESR)
+Electron Tunneling
+Electro-Osmosis
+Electro-Optic Modulator
+Electrostatic Lens
+Electrostriction
+Ellipsometry
+Emission Cross Section
+Emissivity
+Enantiomer (chiral molecules, physics of)
+Endothermic Reaction (physical chemistry)
+Energy Gap (superconductivity)
+Energy Minimization
+Enthalpy of Formation
+Entropic Force
+Entropy of Mixing
+Eötvös Experiment
+Ephemeris
+Epitaxial Growth
+Equation of State (EOS)
+Equilibrium Constant (statistical physics)
+Erbium-Doped Fiber Amplifier (EDFA)
+Ergodic Hypothesis
+Eta Meson
+Evaporative Deposition
+Event Horizon Telescope
+Ewald Sphere
+Excimer Laser
+Exciton Condensate
+Exotic Atom
+Expansion Coefficient
+Extended X-ray Absorption Fine Structure (EXAFS)
+Extinction (optics)
+Fabry-Perot Etalon
+Face-Centered Cubic (FCC)
+Faraday Rotator
+Fast Neutron Reactor
+Feedback Loop
+Fermi Liquid
+Ferrimagnetism
+Ferroelectric Memory
+Fick's Second Law
+Field Effect Transistor (FET)
+Field Emission Display (FED)
+Field Emission Microscopy (FEM)
+Filter Factor (optics)
+Finite Difference Method (FDM)
+Finite Volume Method (FVM)
+First-Order Reaction (kinetics)
+Flame Ionization Detector (FID)
+Flash Photolysis
+Flat Panel Display
+Flicker Noise
+Floating Point Arithmetic (numerical physics)
+Flow Visualization
+Fluence
+Fluid-Structure Interaction (FSI)
+Fluorescence Lifetime
+Fluorescence Resonance Energy Transfer (FRET)
+Fluxgate Magnetometer
+Focal Plane
+Forbidden Transition
+Form Factor (particle physics)
+Forward Scattering
+Fourier Optics
+Fractional Statistics
+Fracture Mechanics
+Franck-Condon Principle
+Free Electron Laser (FEL)
+Free Induction Decay (NMR)
+Free Space Optics (FSO)
+Frenkel Defect
+Fresnel Diffraction
+Fresnel Lens
+Friction Coefficient
+Frustrated Magnetism
+Fuel Cycle (nuclear)
+Functional Integral
+Gamma Correction
+Gamma Spectroscopy
+Gas Chromatography–Mass Spectrometry (GC-MS) (principles)
+Gas-Insulated Switchgear
+Gauge Fixing
+Gauge Group
+Geiger Plateau
+General Gauge Theory
+General Relativistic Magnetohydrodynamics (GRMHD)
+Geometric Phase
+Gibbs Free Energy Minimization
+Glass Transition Temperature
+Glory (optics)
+Golay Cell
+Gouy Phase
+Grain Boundary
+Grand Unified Theories (GUTs)
+Graphene Quantum Dot
+Gravitational Slingshot
+Greenhouse Effect (atmospheric physics)
+Griffith Crack Theory
+Ground State Degeneracy
+Group Velocity Dispersion (GVD)
+Growth Rate (crystal)
+Guided Wave Optics
+Gyroscopic Precession
+Hadronization
+Hall Thruster
+Hamiltonian Flow
+Harmonic Generation
+Hartree-Fock Method
+Heat of Vaporization
+Heavy Ion Collider
+Helicity (particle physics)
+Heliosphere
+Helmholtz Free Energy (A)
+Hermitian Operator
+Heterojunction Bipolar Transistor (HBT)
+Hexagonal Close-Packed (HCP)
+Higgs Mechanism
+High-k Dielectric
+High-Pressure Physics
+High-Temperature Superconductivity
+Holographic Principle
+Homojunction Laser
+Hooke's Law (Generalized)
+Hot Electron
+Hot Spot (fusion)
+Hubble Flow
+Humidity Sensor
+Hybridization (orbital, in solids)
+Hydroelasticity
+Hydroforming
+Hydrothermal Synthesis
+Hyperbolic Orbit
+Hyperfine Splitting
+Hysteresis Loop
+Ideal MHD
+Illuminance
+Impedance Matching
+Implantation (ion)
+Impulse Turbine
+Inclusion (material defect)
+Incompressibility
+Indirect Band Gap
+Induced Drag
+Inelastic Neutron Scattering
+Infrared Spectroscopy (IR)
+Injection Molding (polymer physics)
+Insulating Barrier
+Interdigitated Capacitor
+Interfacial Energy
+Interferometric Gravitational Wave Detector
+Interstellar Medium (ISM)
+Inverse Compton Scattering
+Inverse Problems (mathematical physics)
+Ion Channel (biophysics)
+Ion Implantation
+Ion Microscope
+Ionization Chamber
+Ionizing Radiation Detector
+Irradiance (optical)
+Isentropic Expansion
+Ising Model
+Isobaric Expansion
+Isochronous Cyclotron
+Isoelectronic
+Isomorphic
+Isotope Separation
+Isotropy (cosmology)
+J-coupling (NMR)
+Joule-Brayton Cycle
+Joule Heating
+Junction Field-Effect Transistor (JFET)
+K-alpha Line (X-ray)
+Kalman Filter (physics applications)
+Kerr Lens Modelocking
+Kinetic Isotope Effect
+Kinetic Theory of Matter
+Kirkwood-Buff Theory
+Kondo Insulator
+Kramers' Degeneracy
+Kronecker Delta
+Kruskal Coordinates
+Lagrangian Point
+Laminar Boundary Layer
+Landau Damping
+Landau-Ginzburg Theory
+Laplace Equation (applied physics)
+Larmor Frequency
+Laser Ablation
+Laser Cooling and Trapping
+Laser Diode
+Laser-Induced Breakdown Spectroscopy (LIBS)
+Laser Interferometer
+Laser Pumping
+Lattice Vibration
+Laue Diffraction
+Law of Large Numbers (statistical physics)
+Least Squares Fitting
+Lenz's Law
+Leptogenesis
+Lidar
+Light Cone
+Light Emitting Polymer (LEP)
+Light Sheet Microscopy
+Light-Front Quantization
+Limiting Current
+Line Broadening
+Linear Combination of Atomic Orbitals (LCAO)
+Linear Programming (optimization in physics)
+Linear Response Theory
+Lissajous Orbit
+Local Oscillator
+Localized State
+Lock-in Amplifier
+Lorentz Contraction
+Lorentz Gauge
+Lorentz Gas
+Lorentzian Distribution
+Loss Tangent
+Loudness Perception
+Luminescence Spectroscopy
+Luminosity Function (astronomy)
+Luminophore
+Luxmeter
+Mach-Zehnder Interferometer
+Magnetic Anomaly
+Magnetic Bottle
+Magnetic Circular Dichroism
+Magnetic Domain Wall
+Magnetic Fusion Energy (MFE)
+Magnetic Hyperfine Interaction
+Magnetic Levitation (Maglev)
+Magnetic Moment (electron/nuclear)
+Magnetic Resonance
+Magnetic Shielding
+Magnetic Vortex
+Magneto-Optical Kerr Effect (MOKE)
+Magnetocaloric Effect
+Magnetometer
+Magnetoplasma
+Magnetostatic Energy
+Magnon Condensate
+Mandelbrot Set (fractals in physics)
+Many-Body Problem
+Marangoni Effect
+Martensitic Transformation
+Mass Defect (nuclear)
+Mass-Energy Equivalence (E=mc 
+2
+ )
+Master Equation (quantum optics)
+Mean Field Approximation
+Mean Free Path (MFP)
+Mechanical Impedance
+Medical Physics
+Meissner Effect
+Memory Effect (materials)
+Mesoscale Physics
+Metacenter
+Metallization (semiconductor)
+Metastable Phase
+Microchannel Plate (MCP)
+Microelectromechanical Systems (MEMS)
+Microscopic Reversibility
+Microwave Background Radiation (CMB)
+Microwave Spectroscopy
+Mie-Grüneisen Equation of State
+Miller Indices (crystallography)
+Mode Coupling
+Modulation Doping
+Moiré Deflectometry
+Molecular Beam
+Molecular Dynamics (MD) Simulation
+Molecular Sieves (physics of separation)
+Molten Salt Reactor
+Moment of Area (mechanics)
+Monochromator
+Monte Carlo Method (numerical physics)
+Morphogenesis (physics in biology)
+Mott Insulator
+Multi-Armed Bandit (optimization in physics experiments)
+Multilayers (thin films)
+Multiphase Flow
+Multipolar Expansion
+Muon Spin Rotation (μSR)
+N-body Problem
+NAND Gate (physics of operation)
+Nanoelectronics
+Nanofluidics
+Nanophotonics
+Nanoscale
+Nanotube
+Narrow Bandgap Semiconductor
+Natural Convection
+Near-Field Scanning Optical Microscopy (NSOM)
+Néel Temperature
+Negative Absolute Temperature
+Nematic Phase
+Net Neutron Production
+Neutron Capture Therapy (NCT)
+Neutron Scattering
+Newtonian Fluid
+Noble Gas Configuration
+Noise Figure
+Non-Commutative Geometry (theoretical physics)
+Non-Destructive Testing (NDT)
+Non-Equilibrium Thermodynamics
+Non-Hermitian Quantum Mechanics
+Non-Linear Schrödinger Equation
+Non-Radiative Recombination
+Normal Distribution (error analysis)
+Nuclear Fuel Cycle
+Nuclear Magnetic Resonance Imaging (NMRI)
+Nuclear Reaction Cross Section
+Nuclear Reactor Core
+Nuclear Waste Management
+Nucleon-Nucleon Interaction
+Nucleosynthesis (stellar)
+Numerical Aperture (NA)
+Nyquist-Shannon Sampling Theorem
+Object-Oriented Programming (OOP) in physics
+Observational Cosmology
+Off-Resonance
+Ohmic Contact
+Omnidirectional Antenna
+Open Quantum System
+Optical Cavity
+Optical Coherence Tomography (OCT)
+Optical Dipole Trap
+Optical Lattices
+Optical Tweezers
+Optics of Thin Films
+Optocoupler
+Orbital Hybridization (physics of bonds)
+Order Parameter (phase transitions)
+Orthogonal States (quantum)
+Osmotic Pressure (physics of solutions)
+Overdamping
+Overhauser Effect
+Oxidation State (related to electron transfer)
+P-Type Semiconductor
+Pair Distribution Function
+Pairing Gap (superconductivity)
+Parabolic Equation Method (wave propagation)
+Paraelectric
+Parametric Amplifier
+Partial Waves (scattering theory)
+Particle-in-Cell (PIC) Simulation
+Particle Shower
+Paschen Series
+Passive Mode Locking
+Pauli Spin Matrices
+Peierls Transition
+Peltier Cooler
+Penetration Depth (electromagnetism)
+Percolation Threshold
+Perihelion
+Permanent Magnet
+Permeance
+Perturbative QCD
+Phase Detection
+Phase Noise
+Phase Transition Dynamics
+Phase-Locked Loop (PLL)
+Phasor Diagram
+Phonon Polariton
+Photobleaching
+Photocatalysis (physics of)
+Photoconductivity
+Photocurrent
+Photodetection
+Photodissociation
+Photoelasticity
+Photoelectric Spectroscopy
+Photoemission Electron Microscopy (PEEM)
+Photogeneration
+Photolithography
+Photomultiplier Tube
+Photon Counting
+Photon Echo
+Photon Metamaterial
+Photonic Band Gap
+Photorefractive Effect
+Photovoltaic Effect
+Physical Acoustics
+Physical Chemistry (interdisciplinary)
+Physical Cosmology
+Physical Oceanography
+Physical Vapor Deposition (PVD)
+Pi Meson
+Piezoelectricity
+Piezomagnetism
+Plasma Confinement
+Plasma Sheath
+Plastic Scintillator
+Plasmons (surface)
+Pockels Cell
+Point Contact (nanoelectronics)
+Point Group (crystallography)
+Point Source
+Poisson's Ratio
+Polarizability (molecular)
+Polarized Light Microscopy
+Polaron
+Poling (ferroelectrics)
+Population Inversion
+Positronium
+Post-Newtonian Expansion
+Potential Energy Surface (PES)
+Power Density
+Power Loss
+Pre-ionization
+Pressure Broadening
+Principal Axis Transformation
+Probability Amplitude
+Projection Operator
+Proper Acceleration
+Proper Volume
+Proportionality Constant
+Proton-Proton Chain
+Pseudovector
+Pulsed Laser Deposition (PLD)
+Pyroelectricity
+Q-Switching (laser)
+Quadratic Zeeman Effect
+Quantized Conductance
+Quantum Annealing
+Quantum Bit (Qubit)
+Quantum Chromodynamics (QCD)
+Quantum Cryptography
+Quantum Defect
+Quantum Electrodynamics (QED)
+Quantum Erasing
+Quantum Fluctuation
+Quantum Fluid
+Quantum Gates
+Quantum Graph
+Quantum Gravity Phenomenology
+Quantum Hall Edge States
+Quantum Imaging
+Quantum Inductance
+Quantum Information Theory
+Quantum Interference
+Quantum Jumps
+Quantum Limit of Measurement
+Quantum Logic
+Quantum Metrology
+Quantum Noise
+Quantum Non-Demolition Measurement (QND)
+Quantum Optics
+Quantum Phase Estimation
+Quantum Phase Transition
+Quantum Potential
+Quantum Random Walk
+Quantum Sensing
+Quantum Simulation
+Quantum Spin Hall Effect
+Quantum State Tomography
+Quantum Statistics
+Quantum Teleportation
+Quantum Thermodynamics
+Quantum Wire
+Quark Confinement
+Quark-Gluon Plasma (QGP)
+Quasiparticle
+Quench Cooling
+Radiative Cooling
+Radiative Recombination
+Radiator (thermal)
+Radiofrequency (RF)
+Radioisotope Thermoelectric Generator (RTG)
+Radiometer
+Radiometric Dating
+Raman Spectroscopy
+Random Phase Approximation (RPA)
+Range (particle)
+Rarefaction (waves)
+Rate Equation (laser)
+Ray Tracing
+Rayleigh Criterion
+Rayleigh-Taylor Instability
+Reactance (electrical)
+Reaction Cross Section
+Reciprocal Lattice
+Reciprocity Principle (optics)
+Recombination Rate
+Rectification (electrical)
+Recursion Relation (physics)
+Red Giant Branch
+Reflectometer
+Refraction Telescope
+Regenerative Amplifier
+Regularization (field theory)
+Relativistic Electrodynamics
+Relativistic Heavy Ion Collider (RHIC)
+Relaxation Oscillation
+Relaxation Time (carrier)
+Remanence (magnetism)
+Renormalization
+Renormalization Group (RG)
+Rephasing
+Residual Resistivity
+Resilience (material)
+Resistive Superconductivity
+Resistivity Meter
+Resolution Limit
+Resonance Fluorescence
+Resonant Tunneling Diode (RTD)
+Rest Mass Energy
+Retardation Effect
+Retrograde Motion
+Reverberation Time
+Reverse Bias Breakdown
+Reynold's Number
+Rheocasting
+Ricci Tensor
+Riemann Curvature Tensor
+Rigid Rotor
+Robustness (control theory in physics)
+Rocket Equation
+Rotational Diffusion
+Rotational Spectroscopy
+Roughness (surface)
+Rubidium
+Runaway Breakdown
+S-Wave (seismology)
+Sagnac Interferometer
+Sampling Rate
+Saturable Absorber
+Saturated Absorption Spectroscopy
+Saturation Magnetization
+Sawtooth Wave
+Scalar Potential (electromagnetic)
+Scaling Theory
+Scanning Electron Microscopy (SEM)
+Scanning Probe Microscopy (SPM)
+Scanning Tunneling Microscopy (STM)
+Scattering Length
+Schottky Diode
+Schrödinger Picture
+Scientific Visualization
+Scintillation (optics)
+Screening Length
+Screw Dislocation
+Second Harmonic Generation (SHG)
+Second-Order Phase Transition
+Sedimentation
+Seebeck Coefficient
+Self-Absorption
+Self-Consistent Field (SCF) Method
+Self-Focusing
+Self-Inductance (mutual)
+Self-Organization
+Self-Pumped Phase Conjugator
+Semi-Classical Approximation
+Semiconductor Junction
+Sensible Heat
+Sensor Fusion (physics applications)
+Separation of Variables
+Sessile Drop
+Shadow Mask
+Shapiro Steps (Josephson Effect)
+Shear Thinning
+Shell Model (atomic/nuclear)
+Shock Hugoniot
+Shockley Diode
+Short-Range Order
+Shot Noise (photodetector)
+Shubnikov-de Haas Effect
+Side-Lobed (antenna)
+Sigma Meson
+Signal Averaging
+Signal Filtering
+Signal Integrity
+Silicene
+Silicon Carbide (SiC)
+Simple Cubic (SC)
+Simulated Annealing
+Single-Electron Transistor (SET)
+Single-Photon Detector (SPD)
+Siphon (physics of operation)
+Skintight (physics term, usually "skin depth")
+Slab Waveguide
+Sliding Mode Control
+Smoluchowski Equation
+Snell's Law (vector form)
+Soft X-rays
+Solar Cell Efficiency
+Solar Flare
+Solar Wind (physics of)
+Solid-Liquid Interface
+Solidification
+Solvent Drag
+Sonic Boom
+Sound Attenuation
+Sound Intensity
+Sound Pressure Level (SPL)
+Source (transistor)
+Space Charge Limited Current
+Space-Filling Curve (fractals)
+Spacetime Foam (speculative)
+Spallation Neutron Source
+Spatial Coherence
+Spatial Filtering
+Spatial Resolution
+Speckle (optics)
+Spectral Broadening
+Spectral Density
+Spectral Line Shape
+Spectrometer Resolution
+Speed of Light in Medium
+Spherical Coordinates
+Spin Coherence
+Spin Density Wave (SDW)
+Spin Diffusion
+Spin Echo
+Spin Foam (loop quantum gravity)
+Spin Glass
+Spin Hall Effect
+Spin Hamiltonian
+Spin Ice
+Spin Labeling
+Spin Liquid
+Spin Pumping
+Spin Relaxation
+Spin Valve
+Spontaneous Fission
+Spontaneous Parametric Down-Conversion (SPDC)
+Spot Size (laser)
+Sputter Deposition
+Squeezed States of Light
+Stability Criterion
+Standard Quantum Limit
+Static Inductance
+Stator
+Steady-State Flow
+Stefan-Boltzmann Constant
+Stellar Remnant
+Step Index Fiber
+Stick-Slip Friction
+Stochastic Processes (physics)
+Stokes Law
+Strain Energy
+Stratosphere (physics of)
+Stress Corrosion Cracking
+String Tension (string theory)
+Strong Coupling Limit
+Structural Color
+Structural Integrity
+Sub-Bandgap Absorption
+Subthreshold Conduction
+Super-Kamiokande
+Superconducting Quantum Interference Device (SQUID)
+Superconductive Tunneling
+Superelasticity
+Superfluidity (He-4, He-3)
+Supergravity
+Superheating (liquids)
+Superhydrophobic
+Superluminal Motion (apparent)
+Superradiance
+Supersymmetry
+Surface Acoustic Wave (SAW) Device
+Surface Plasmon Resonance (SPR)
+Surface Reconstruction
+Surface Roughening
+Surface States
+Susceptibility (dielectric, magnetic)
+Swept Source
+Symmetry Group
+Synchrocyclotron
+Synchrotron Radiation Source (SRS)
+System (thermodynamic)
+System Noise
+Tandem Mirror
+Target (particle accelerator)
+Teleportation (quantum)
+Tensile Modulus
+Tensor Field
+Terahertz Spectroscopy
+Thermal Boundary Resistance
+Thermal Breakdown
+Thermal Contact Resistance
+Thermal Deposition
+Thermal Diffusivity
+Thermal Effusivity
+Thermal Expansion Joint
+Thermal Imaging
+Thermal Runaway
+Thermistor
+Thermocline
+Thermocouple Gauge
+Thermoelectric Cooler
+Thermoelectric Generator (TEG)
+Thermography
+Thermopile
+Thermosetting Polymer (physics of)
+Thin Film Deposition
+Thin Lens Equation (Gaussian form)
+Thomas-Fermi Screening
+Thomson Effect
+Threshold Current
+Thyristor
+Tidal Locking
+Time-Resolved Spectroscopy
+Time-Reversal Symmetry
+Tip-Enhanced Raman Spectroscopy (TERS)
+Tokamak Reactor
+Topological Order
+Total Dose (radiation)
+Total Internal Reflection Fluorescence (TIRF)
+Toughness (material)
+Transconductance Amplifier
+Transient Absorption Spectroscopy
+Transient Heat Conduction
+Transistor Logic
+Transition Edge Sensor (TES)
+Transmission Electron Microscopy (TEM)
+Transmission Function
+Transmission Grating
+Transport Equation
+Transport Phenomena
+Transverse Mode (laser)
+Trap State (semiconductor)
+Traveling Wave Amplifier
+Traveling Wave Tube (TWT)
+Triple Point (water, etc.)
+Tritium Breeding
+Tuning Fork (acoustics)
+Tunneling Current
+Tunneling Spectroscopy
+Turbidimeter
+Turbulent Kinetic Energy
+Two-Photon Absorption
+Two-Stream Instability
+Type-II Superconductivity
+Ultrafast Lasers
+Ultrahard Material
+Ultrasonic Testing
+Ultraviolet Photoelectron Spectroscopy (UPS)
+Uniaxial Crystal
+Uncertainty Propagation
+Underdamped Resonance
+Undulator (synchrotron)
+Unitarity Limit
+Universal Constants
+Unruh Effect
+Vacuum Arc
+Vacuum Fluctuation
+Vacuum Ultraviolet (VUV)
+Valence Band Maximum (VBM)
+Valence Bond Theory (physics of bonds)
+Van der Waals Heterostructure
+Van de Graaff Generator
+Vapor Deposition
+Vapor-Liquid-Solid (VLS) Growth
+Variational Calculus (applied to physics)
+Vector Boson
+Velocity Gradient
+Velocity of Sound
+Venturi Tube
+Verdet Constant
+Vibration Isolation
+Vibrational Spectroscopy
+Viscoplasticity
+Viscous Damping
+Visible Light Communication (VLC)
+Vitreous Silica
+Volterra Operator
+Volume Fraction
+Volumetric Flow Rate
+Von Neumann Entropy
+Vortex Ring
+Wafer Scale Integration (WSI)
+Wakefield Acceleration
+Wave Drag
+Wave Function Collapse
+Waveguide Dispersion
+Weak Localization
+Weak Measurement
+Weakly Interacting Massive Particles (WIMPs)
+Weissenberg Effect
+Wetting Angle
+White Dwarf Limit
+Widmanstätten Pattern (metallurgy, physics of formation)
+Wien Bridge Oscillator (physics of circuit)
+Wigner Function
+Wind Tunnel
+Work Hardening
+Work-Kinetic Energy Theorem
+Wurtzite Structure
+X-ray Fluorescence (XRF)
+X-ray Microscopy
+Xenon Arc Lamp
+Y-factor (noise measurement)
+Yang-Mills Theory
+Yield Criterion
+Young's Fringes
+Z-pinch (plasma physics)
+Zeeman Splitting
+Zero-Point Energy (quantum vacuum)
+Zero-Point Motion
+Zener Tunneling
+Zener Voltage
+Zonal Flow
+Zone Plate
+Zone Refining
+Zoom Lens

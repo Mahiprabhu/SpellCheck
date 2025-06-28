@@ -1,0 +1,16 @@
+@prefix phys: <http://example.com/physics#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+phys:quantum a phys:Concept ;
+    rdfs:label "quantum"@en ;
+    phys:relatedTo phys:mechanics ;
+    phys:relatedTo phys:physics .
+
+phys:photon a phys:Particle ;
+    rdfs:label "photon"@en ;
+    phys:type phys:elementary ;
+    phys:relatedTo phys:light .
+
+phys:relativity a phys:Theory ;
+    rdfs:label "relativity"@en ;
+    phys:developedBy phys:einstein .
